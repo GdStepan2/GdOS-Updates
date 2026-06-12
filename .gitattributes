@@ -1,0 +1,4 @@
+stable.json text eol=lf
+stable.json.sig binary
+*.md text eol=lf
+*.sh text eol=lf
