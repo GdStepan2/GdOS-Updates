@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.0.4",
-  "published_at": "2026-06-12T18:14:58Z",
+  "version": "1.0.5",
+  "published_at": "2026-06-12T19:00:17Z",
   "minimum_version": "1.0.0",
-  "release_notes_url": "https://github.com/GdStepan2/GdOS-Updates/releases/tag/v1.0.4",
+  "release_notes_url": "https://github.com/GdStepan2/GdOS-Updates/releases/tag/v1.0.5",
   "packages": [
     {
-      "url": "https://github.com/GdStepan2/GdOS-Updates/releases/download/v1.0.4/gdos-desktop_1.0.4_all.deb",
-      "sha256": "76c51f3409b03b926b845882cba010f54d67aedcafdd95dc8a13e250aaee6054"
+      "url": "https://github.com/GdStepan2/GdOS-Updates/releases/download/v1.0.5/gdos-desktop_1.0.5_all.deb",
+      "sha256": "d9d47aba2f65f47fa05edc5b7c74b60760d30f3d94e2a6bcf18ff9aa1db49f0a"
     }
   ]
 }
