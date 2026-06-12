@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "1.0.0",
+  "published_at": "2026-06-12T00:00:00Z",
+  "minimum_version": "1.0.0",
+  "release_notes_url": "https://github.com/GdStepan2/GdOS-Updates",
+  "packages": []
+}
+
