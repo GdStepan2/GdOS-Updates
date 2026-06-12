@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.0.3-1",
+  "version": "1.0.3-2",
   "published_at": "2026-06-12T16:58:00Z",
   "minimum_version": "1.0.0",
   "release_notes_url": "https://github.com/GdStepan2/GdOS-Updates/releases/tag/v1.0.3",
   "packages": [
     {
-      "url": "https://github.com/GdStepan2/GdOS-Updates/releases/download/v1.0.3/gdos-desktop_1.0.3-1_all.deb",
-      "sha256": "deb0c707615cf2894e695d60cb766359a69d22b2cb3bee2c8bc6e69290d1be34"
+      "url": "https://github.com/GdStepan2/GdOS-Updates/releases/download/v1.0.3/gdos-desktop_1.0.3-2_all.deb",
+      "sha256": "066e9774f462b42b795239fabf2d2dc3d07ff74ea2f56763501d4f1acdf65f12"
     }
   ]
 }
