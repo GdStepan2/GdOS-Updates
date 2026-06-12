@@ -1,6 +1,7 @@
 # GdOS Updates
 
-Private test channel for GdOS update metadata.
+Public binary update channel for signed GdOS releases. Source repositories
+remain private.
 
 The client should download a signed `stable.json`, verify its signature, and
 only then install packages from the configured GdOS APT repository.
@@ -16,6 +17,5 @@ the ISO. The matching private key must stay outside Git:
 ./sign-release.sh /path/to/update-private.pem
 ```
 
-For installed machines, publish `stable.json`, `stable.json.sig`, release
-notes and `.deb` packages on a public HTTPS endpoint. A private GitHub
-repository cannot be read by clients without exposing a personal token.
+Installed systems read `stable.json` from this public repository. Release
+metadata is signed, and every package hash is verified before installation.
