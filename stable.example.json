@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "1.0.0",
+  "published_at": "2026-06-12T00:00:00Z",
+  "minimum_version": "1.0.0",
+  "packages_url": "https://example.invalid/gdos/dists/stable/",
+  "release_notes_url": "https://example.invalid/gdos/releases/1.0.0",
+  "sha256": "replace-with-release-manifest-sha256"
+}
+
